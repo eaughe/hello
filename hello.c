@@ -4,7 +4,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("ellectrical engineering\n");
+  printf("electrical engineering\n");
 
   printf("Ethan Aughe!\n");
 
